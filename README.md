@@ -1,3 +1,6 @@
+https://github.com/teli203/teli203/assets/68035449/7d5365e1-0fe0-400e-afaa-7cab380c83a3
+
+
 ### Hi there 👋
 
 # 💫 About Me:
