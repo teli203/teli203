@@ -4,7 +4,7 @@ https://github.com/teli203/teli203/assets/68035449/7d5365e1-0fe0-400e-afaa-7cab3
 ### Hi there 👋
 
 # 💫 About Me:
-I'm actively enhancing my web development skills and seeking collaborations with passionate individuals who share a drive for software development and are open to exchanging knowledge.
+I'm a dedicated frontend web developer with a good foundation in HTML, CSS, and JavaScript. I'm actively building and refining projects that emphasize responsive design, interactive UI components, and modern development workflows. I'm always looking to collaborate with other developers who are passionate about clean code, continuous learning, and creating intuitive user experiences. Whether it's contributing to open source or learning together, I'm excited to grow in a community of like minded builders. Let’s connect and create something impactful!
 
 
 ## 🌐 Socials:
