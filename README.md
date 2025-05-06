@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/120" alt="Your Name" style="border-radius: 50%; margin-bottom: 20px;" />
+![Image](https://github.com/user-attachments/assets/a3a339a3-5ea4-482c-9414-6cc627d23ece) 
 
   <h1>Hi, I'm Telicia 👋</h1>
 
