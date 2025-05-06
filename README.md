@@ -10,8 +10,8 @@
 
   <p style="margin-top: 20px;">
     🔗 <a href="https://telicia-l-watson.netlify.app/" target="_blank">Portfolio</a> |
-    💼 <a href="mailto:teli203@aol.com">Contact Me</a> |
-    📫 <a href="https://linkedin.com/in/teliciaw" target="_blank">LinkedIn</a>
+    📫 <a href="mailto:teli203@aol.com">Contact Me</a> |
+    💼 <a href="https://linkedin.com/in/teliciaw" target="_blank">LinkedIn</a>
   </p>
 
 
