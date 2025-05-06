@@ -17,7 +17,7 @@
 
 
 
-https://github.com/teli203/teli203/assets/68035449/7d5365e1-0fe0-400e-afaa-7cab380c83a3
+<img width="479" alt="Image" src="https://github.com/user-attachments/assets/6a9eb4b5-9f82-4c59-a7a0-ea135800bcd3" />
 
 
 # 💫 About Me:
